@@ -1,10 +1,10 @@
 # CS587 Database Implementation Project 
 
-#PART 1 - Goal
+# PART 1 - Goal
 Project part1 is generate data according to Wisconsin Benchmark.The benchmark data is loaded into a system(which has sql interface).
 
 
-##Demonstrate you have loaded data into that system
+## Demonstrate you have loaded data into that system
 https://github.com/Sukanya-Kothapally/CS-587_Database_Impl/blob/main/ONEKTUP.png
 https://github.com/Sukanya-Kothapally/CS-587_Database_Impl/blob/main/TENKTUP.png
 https://github.com/Sukanya-Kothapally/CS-587_Database_Impl/blob/main/Rows.png
