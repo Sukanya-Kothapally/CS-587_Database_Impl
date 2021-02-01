@@ -22,4 +22,4 @@ We choose PostgreSQL as we are familiar with it and have some experience from pr
 
 ## Extra credit for doing the project as a container or VM.
 * We implemented this project on a GCP VM.
-https://github.com/Sukanya-Kothapally/CS-587_Database_Impl/blob/main/VM.PNG
+* https://github.com/Sukanya-Kothapally/CS-587_Database_Impl/blob/main/VM.PNG
